@@ -82,13 +82,13 @@
   float: right;
   padding: 2px 10px;
   letter-spacing: 1px;
-  color: #fff !important;
   margin-top: -5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .sav-skytag::before {
   content: "@";
   margin-right: 2px;
+  color: #fff !important;
 }
 .sav-skyhighlight {
   text-transform: uppercase;
@@ -184,13 +184,13 @@
   float: right;
   padding: 2px 10px;
   letter-spacing: 1px;
-  color: #fff !important;
   margin-top: -5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .cul-skytag::before {
   content: "@";
   margin-right: 2px;
+  color: #fff !important;
 }
 .cul-skyhighlight {
   text-transform: uppercase;
