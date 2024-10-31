@@ -90,6 +90,14 @@
   margin-right: 2px;
   color: #fff !important;
 }
+.sav-skytag a {
+  color: #fff !important;
+  transition-timing-function: ease-in-out;
+  transition-duration:.4s;
+}
+.sav-skytag a:hover {
+  color: var(--main);
+}
 .sav-skyhighlight {
   text-transform: uppercase;
   font-weight: 700;
@@ -191,6 +199,14 @@
   content: "@";
   margin-right: 2px;
   color: #fff !important;
+}
+.cul-skytag a {
+  color: #fff !important;
+  transition-timing-function: ease-in-out;
+  transition-duration:.4s;
+}
+.cul-skytag a:hover {
+  color: var(--main);
 }
 .cul-skyhighlight {
   text-transform: uppercase;
