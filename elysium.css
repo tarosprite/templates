@@ -2,7 +2,7 @@
   width: 502px;
   height: 24px;
   padding-top: 5px;
-  background-image: linear-gradient(45deg, #333 30%, rgba(0, 0, 0, 0) 0%);
+  background-image: linear-gradient(45deg, #414141 34%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
 .sav-skymonth {
@@ -34,9 +34,9 @@
   margin: auto;
   background: url(https://files.catbox.moe/n3e0qv.png) bottom right;
   background-repeat: no-repeat;
-  border: 1px solid #333;
-  border-bottom: 5px solid #333;
-  border-top: 5px solid #333;
+  border: 1px solid #414141;
+  border-bottom: 5px solid #414141;
+  border-top: 5px solid #414141;
   filter: hue-rotate(0deg);
   --main: rgba(230, 174, 34, 1);
   --sec: rgba(204, 203, 23, 1);
@@ -54,7 +54,7 @@
   width: 400px;
   height: auto;
   padding: 50px;
-  color: #333;
+  color: #414141;
 }
 .sav-skybody b {
   background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
@@ -79,7 +79,7 @@
   text-transform: uppercase;
   font-size: 11px;
   font-weight: 800;
-  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #333 0%);
+  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #414141 0%);
   float: right;
   padding: 2px 10px;
   letter-spacing: 1px;
@@ -108,7 +108,7 @@
   width: 502px;
   height: 24px;
   padding-top: 5px;
-  background-image: linear-gradient(45deg, #333 30%, rgba(0, 0, 0, 0) 0%);
+  background-image: linear-gradient(45deg, #414141 34%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
 .cul-skymonth {
@@ -140,9 +140,9 @@
   margin: auto;
   background: url(https://files.catbox.moe/qtuxn6.png) bottom right;
   background-repeat: no-repeat;
-  border: 1px solid #333;
-  border-bottom: 5px solid #333;
-  border-top: 5px solid #333;
+  border: 1px solid #414141;
+  border-bottom: 5px solid #414141;
+  border-top: 5px solid #414141;
   filter: hue-rotate(0deg);
   --main: rgba(21, 180, 120, 1);
   --sec: rgba(5, 184, 35, 1);
@@ -160,7 +160,7 @@
   width: 400px;
   height: auto;
   padding: 50px;
-  color: #333;
+  color: #414141;
 }
 .cul-skybody b {
   background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
@@ -184,7 +184,7 @@
   text-transform: uppercase;
   font-size: 11px;
   font-weight: 800;
-  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #333 0%);
+  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #414141 0%);
   float: right;
   padding: 2px 10px;
   letter-spacing: 1px;
