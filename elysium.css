@@ -1,8 +1,8 @@
 .sav-skyborder {
   width: 602px;
   height: 24px;
-  padding: 5px;
-  background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
+  padding-top: 5px;
+  background-image: linear-gradient(45deg, #333 30%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
 .sav-skymonth {
@@ -49,7 +49,7 @@
 }
 .sav-skybody {
   font-family: Nunito, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 20px;
   width: 500px;
   height: auto;
@@ -101,14 +101,14 @@
   padding: 1px 4px;
   border-radius: 2px;
   color: #fff;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .cul-skyborder {
   width: 602px;
   height: 24px;
-  padding: 5px;
-  background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
+  padding-top: 5px;
+  background-image: linear-gradient(45deg, #333 30%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
 .cul-skymonth {
@@ -155,7 +155,7 @@
 }
 .cul-skybody {
   font-family: Nunito, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 20px;
   width: 500px;
   height: auto;
@@ -207,5 +207,5 @@
   padding: 1px 4px;
   border-radius: 2px;
   color: #fff;
-  font-size: 12px;
+  font-size: 13px;
 }
