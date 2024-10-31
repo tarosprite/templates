@@ -71,7 +71,6 @@
 .sav-skybody u {
   text-decoration-color: var(--main);
 }
-
 .sav-skytag {
   width: 502px;
   text-align: right;
@@ -90,9 +89,6 @@
 .sav-skytag::before {
   content: "@";
   margin-right: 2px;
-}
-.sav-skytag:a {
-  color: #fff !important;
 }
 .sav-skyhighlight {
   text-transform: uppercase;
@@ -196,10 +192,6 @@
   content: "@";
   margin-right: 2px;
 }
-.cul-skytag:a {
-  color: #fff !important;
-}
-
 .cul-skyhighlight {
   text-transform: uppercase;
   font-weight: 700;
