@@ -1,0 +1,217 @@
+.sav-skyborder {
+  width: 602px;
+  height: 24px;
+  padding: 0px;
+  background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
+  margin: auto;
+}
+.sav-skymonth {
+  font-family: JetBrains Mono, monospace;
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 5px;
+  text-transform: uppercase;
+  color: #fff;
+  float: left;
+  margin-top: 2px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.sav-skymonth::after {
+  content: "//";
+  margin-left: 3px;
+  margin-right: 4px;
+}
+.sav-skyyear {
+  font-family: Orbitron, monospace;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-right: 10px;
+  color: #fff;
+  float: left;
+  margin-top: 2px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.sav-skytemp {
+  margin: auto;
+  background: url(https://files.catbox.moe/n3e0qv.png) bottom right;
+  background-repeat: no-repeat;
+  border: 1px solid #333;
+  border-bottom: 5px solid #333;
+  border-top: 5px solid #333;
+  filter: hue-rotate(0deg);
+  --main: rgba(230, 174, 34, 1);
+  --sec: rgba(204, 203, 23, 1);
+}
+.sav-skylinebg {
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0.9),
+    rgba(240, 240, 240, 0.9)
+  );
+}
+.sav-skybody {
+  font-family: Nunito, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  width: 500px;
+  height: auto;
+  padding: 50px;
+  color: #333;
+}
+.sav-skybody b {
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+.sav-skybody i {
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+.sav-skybody u {
+  text-decoration-color: var(--main);
+}
+
+.sav-skytag {
+  width: 602px;
+  text-align: right;
+  font-family: Nunito, sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 800;
+  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #333 0%);
+  float: right;
+  padding: 2px 10px;
+  letter-spacing: 1px;
+  color: #fff !important;
+  margin-top: -5px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.sav-skytag::before {
+  content: "@";
+  margin-right: 2px;
+}
+.sav-skytag:a {
+  color: #fff !important;
+}
+
+.sav-skyhighlight {
+  text-transform: uppercase;
+  font-weight: 700;
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  padding: 1px 4px;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.cul-skyborder {
+  width: 602px;
+  height: 24px;
+  padding: 0px;
+  background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
+  margin: auto;
+}
+.cul-skymonth {
+  font-family: JetBrains Mono, monospace;
+  font-size: 20px;
+  font-weight: 100;
+  margin-left: 5px;
+  text-transform: uppercase;
+  color: #fff;
+  float: left;
+  margin-top: 2px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.cul-skymonth::after {
+  content: "//";
+  margin-left: 3px;
+  margin-right: 4px;
+}
+.cul-skyyear {
+  font-family: Orbitron, monospace;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  margin-right: 10px;
+  color: #fff;
+  float: left;
+  margin-top: 2px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.cul-skytemp {
+  margin: auto;
+  background: url(https://files.catbox.moe/qtuxn6.png) bottom right;
+  background-repeat: no-repeat;
+  border: 1px solid #333;
+  border-bottom: 5px solid #333;
+  border-top: 5px solid #333;
+  filter: hue-rotate(0deg);
+  --main: rgba(21, 180, 120, 1);
+  --sec: rgba(5, 184, 35, 1);
+}
+.cul-skylinebg {
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0.9),
+    rgba(240, 240, 240, 0.9)
+  );
+}
+.cul-skybody {
+  font-family: Nunito, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  width: 500px;
+  height: auto;
+  padding: 50px;
+  color: #333;
+}
+.cul-skybody b {
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+}
+.cul-skybody i {
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+.cul-skybody u {
+  text-decoration-color: var(--main);
+}
+
+.cul-skytag {
+  width: 602px;
+  text-align: right;
+  font-family: Nunito, sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 800;
+  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0) 30%, #333 0%);
+  float: right;
+  padding: 2px 10px;
+  letter-spacing: 1px;
+  color: #fff !important;
+  margin-top: -5px;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+.cul-skytag::before {
+  content: "@";
+  margin-right: 2px;
+}
+.cul-skytag:a {
+  color: #fff !important;
+}
+
+.cul-skyhighlight {
+  text-transform: uppercase;
+  font-weight: 700;
+  background-image: linear-gradient(45deg, var(--main) 35%, var(--sec));
+  padding: 1px 4px;
+  border-radius: 2px;
+  color: #fff;
+  font-size: 14px;
+}
