@@ -1,7 +1,7 @@
 .sav-skyborder {
   width: 602px;
   height: 24px;
-  padding: 0px;
+  padding: 5px;
   background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
@@ -13,7 +13,6 @@
   text-transform: uppercase;
   color: #fff;
   float: left;
-  margin-top: 5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .sav-skymonth::after {
@@ -29,7 +28,6 @@
   margin-right: 10px;
   color: #fff;
   float: left;
-  margin-top: 5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .sav-skytemp {
@@ -51,7 +49,7 @@
 }
 .sav-skybody {
   font-family: Nunito, sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 20px;
   width: 500px;
   height: auto;
@@ -96,7 +94,6 @@
 .sav-skytag:a {
   color: #fff !important;
 }
-
 .sav-skyhighlight {
   text-transform: uppercase;
   font-weight: 700;
@@ -104,13 +101,13 @@
   padding: 1px 4px;
   border-radius: 2px;
   color: #fff;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .cul-skyborder {
   width: 602px;
   height: 24px;
-  padding: 0px;
+  padding: 5px;
   background-image: linear-gradient(45deg, #333 29%, rgba(0, 0, 0, 0) 0%);
   margin: auto;
 }
@@ -122,7 +119,6 @@
   text-transform: uppercase;
   color: #fff;
   float: left;
-  margin-top: 5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .cul-skymonth::after {
@@ -138,7 +134,6 @@
   margin-right: 10px;
   color: #fff;
   float: left;
-  margin-top: 5px;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
 }
 .cul-skytemp {
@@ -160,7 +155,7 @@
 }
 .cul-skybody {
   font-family: Nunito, sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 20px;
   width: 500px;
   height: auto;
@@ -182,7 +177,6 @@
 .cul-skybody u {
   text-decoration-color: var(--main);
 }
-
 .cul-skytag {
   width: 602px;
   text-align: right;
@@ -213,5 +207,5 @@
   padding: 1px 4px;
   border-radius: 2px;
   color: #fff;
-  font-size: 13px;
+  font-size: 12px;
 }
