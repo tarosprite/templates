@@ -32,19 +32,16 @@
 }
 .sav-skytemp {
   margin: auto;
-  background: url(https://files.catbox.moe/n3e0qv.png) bottom right;
-  background-repeat: no-repeat;
   border: 1px solid #414141;
   border-bottom: 5px solid #414141;
   border-top: 5px solid #414141;
-  filter: hue-rotate(0deg);
   --main: rgba(230, 174, 34, 1);
   --sec: rgba(204, 203, 23, 1);
 }
 .sav-skylinebg {
   background-image: linear-gradient(
-    rgba(255, 255, 255, 0.95),
-    rgba(240, 240, 240, 0.95)
+    rgba(255, 255, 255, 0.8),
+    rgba(240, 240, 240, 0.8)
   );
 }
 .sav-skybody {
@@ -142,19 +139,16 @@
 }
 .cul-skytemp {
   margin: auto;
-  background: url(https://files.catbox.moe/qtuxn6.png) bottom right;
-  background-repeat: no-repeat;
   border: 1px solid #414141;
   border-bottom: 5px solid #414141;
   border-top: 5px solid #414141;
-  filter: hue-rotate(0deg);
   --main: rgba(21, 180, 120, 1);
   --sec: rgba(5, 184, 35, 1);
 }
 .cul-skylinebg {
   background-image: linear-gradient(
-    rgba(255, 255, 255, 0.95),
-    rgba(240, 240, 240, 0.95)
+    rgba(255, 255, 255, 0.8),
+    rgba(240, 240, 240, 0.8)
   );
 }
 .cul-skybody {
