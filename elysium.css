@@ -93,7 +93,7 @@
   transition-duration:.4s;
 }
 .sav-skytag a:hover {
-  color: var(--main);
+  color: var(--main)!important;
 }
 .sav-skyhighlight {
   text-transform: uppercase;
@@ -200,7 +200,7 @@
   transition-duration:.4s;
 }
 .cul-skytag a:hover {
-  color: var(--main);
+  color: var(--main)!important;
 }
 .cul-skyhighlight {
   text-transform: uppercase;
