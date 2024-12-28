@@ -72,6 +72,9 @@
 #sav-dream-color { 
   color: var(--main);
 }
+.sav-dream-body i { 
+  color: var(--main);
+}
 
 .cul-dream-body {
   width: 300px;
@@ -147,6 +150,9 @@
 .cul-dream-color { 
   color: var(--main);
 }
+.cul-dream-body i { 
+  color: var(--main);
+}
 
 .tra-dream-body {
   width: 300px;
@@ -220,5 +226,8 @@
   text-decoration-color: var(--main);
 }
 .tra-dream-color { 
+  color: var(--main);
+}
+.tra-dream-body i { 
   color: var(--main);
 }
