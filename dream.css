@@ -65,7 +65,7 @@
   background: -webkit-linear-gradient(45deg,var(--main) 35%,var(--sec));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-right: 2px;
+  padding-right: 2px;
 }
 .sav-dream-text s {
   text-decoration-color: var(--main);
@@ -144,7 +144,7 @@
   background: -webkit-linear-gradient(45deg,var(--main) 35%,var(--sec));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-right: 2px;
+  padding-right: 2px;
 }
 .cul-dream-text s {
   text-decoration-color: var(--main);
@@ -223,7 +223,7 @@
   background: -webkit-linear-gradient(45deg,var(--main) 35%,var(--sec));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-right: 2px;
+  padding-right: 2px;
 }
 .tra-dream-text s {
   text-decoration-color: var(--main);
