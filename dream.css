@@ -1,0 +1,191 @@
+.sav-dream-body {
+  width: 300px;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-right: 10px solid #ccc;
+  text-align: left;
+  background: #f2f2f2;
+  font-family: Manjari, sans-serif;
+  font-size: 13px;
+  color: #333;
+  line-height: 20px;
+  margin: 20px auto 20px auto;
+  border-radius: 30px;
+}
+.sav-dream-header {
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background: #dedede;
+  font-size: 50px;
+  text-align: center;
+  border-radius: 100%;
+  border: 1px solid rgba(210,163,44,.2);
+  line-height: 85px;
+}
+.sav-dream-notes {
+  font-size: 8px;
+  letter-spacing: 1px;
+  text-align: left;
+  line-height: 9px;
+  font-family: Manjari, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.sav-dream-date {
+  font-family: Manjari, sans-serif;
+  font-size: 15px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.sav-dream-date::before {
+  content: "[";
+  margin-right: 10px;
+  color: rgba(210,163,44,1);
+}
+.sav-dream-date::after {
+  content: "]";
+  margin-left: 10px;
+  color: rgba(210,163,44,1);
+}
+.sav-dream-text b {
+  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sav-dream-text s, u {
+  text-decoration-color: rgba(210,163,44,1);
+}
+#sav-dream-color { 
+  color: rgba(210,163,44,1);
+}
+
+.cul-dream-body {
+  width: 300px;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-right: 10px solid #ccc;
+  text-align: left;
+  background: #f2f2f2;
+  font-family: Manjari, sans-serif;
+  font-size: 13px;
+  color: #333;
+  line-height: 20px;
+  margin: 20px auto 20px auto;
+  border-radius: 30px;
+}
+.cul-dream-header {
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background: #dedede;
+  font-size: 50px;
+  text-align: center;
+  border-radius: 100%;
+  border: 1px solid rgba(210,163,44,.2);
+  line-height: 85px;
+}
+.cul-dream-notes {
+  font-size: 8px;
+  letter-spacing: 1px;
+  text-align: left;
+  line-height: 9px;
+  font-family: Manjari, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.cul-dream-date {
+  font-family: Manjari, sans-serif;
+  font-size: 15px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.cul-dream-date::before {
+  content: "[";
+  margin-right: 10px;
+  color: rgba(210,163,44,1);
+}
+.cul-dream-date::after {
+  content: "]";
+  margin-left: 10px;
+  color: rgba(210,163,44,1);
+}
+.cul-dream-text b {
+  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cul-dream-text s, u {
+  text-decoration-color: rgba(210,163,44,1);
+}
+.cul-dream-color { 
+  color: rgba(210,163,44,1);
+}
+
+.tra-dream-body {
+  width: 300px;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-right: 10px solid #ccc;
+  text-align: left;
+  background: #f2f2f2;
+  font-family: Manjari, sans-serif;
+  font-size: 13px;
+  color: #333;
+  line-height: 20px;
+  margin: 20px auto 20px auto;
+  border-radius: 30px;
+}
+.tra-dream-header {
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background: #dedede;
+  font-size: 50px;
+  text-align: center;
+  border-radius: 100%;
+  border: 1px solid rgba(210,163,44,.2);
+  line-height: 85px;
+}
+.tra-dream-notes {
+  font-size: 8px;
+  letter-spacing: 1px;
+  text-align: left;
+  line-height: 9px;
+  font-family: Manjari, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.tra-dream-date {
+  font-family: Manjari, sans-serif;
+  font-size: 15px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.tra-dream-date::before {
+  content: "[";
+  margin-right: 10px;
+  color: rgba(210,163,44,1);
+}
+.tra-dream-date::after {
+  content: "]";
+  margin-left: 10px;
+  color: rgba(210,163,44,1);
+}
+.tra-dream-text b {
+  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tra-dream-text s, u {
+  text-decoration-color: rgba(210,163,44,1);
+}
+.tra-dream-color { 
+  color: rgba(210,163,44,1);
+}
