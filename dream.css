@@ -86,6 +86,9 @@
   line-height: 20px;
   margin: 20px auto 20px auto;
   border-radius: 30px;
+  --main: rgba(45,194,143, 1);
+  --sec: rgba(45,194,69, 1);
+  --border: rgba(45,194,143, .2);
 }
 .cul-dream-header {
   padding: 10px;
@@ -158,6 +161,9 @@
   line-height: 20px;
   margin: 20px auto 20px auto;
   border-radius: 30px;
+  --main: rgba(93,171,215, 1);
+  --sec: rgba(93,110,215, 1);
+  --border: rgba(93,171,215, .2);
 }
 .tra-dream-header {
   padding: 10px;
