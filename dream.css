@@ -37,6 +37,9 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+.sav-dream-notes a {
+  color: var(--main)!important;
+}
 .sav-dream-date {
   font-family: Manjari, sans-serif;
   font-size: 15px;
@@ -112,6 +115,9 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+.cul-dream-notes a {
+  color: var(--main)!important;
+}
 .cul-dream-date {
   font-family: Manjari, sans-serif;
   font-size: 15px;
@@ -186,6 +192,9 @@
   font-family: Manjari, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
+}
+.tra-dream-notes a {
+  color: var(--main)!important;
 }
 .tra-dream-date {
   font-family: Manjari, sans-serif;
