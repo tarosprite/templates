@@ -50,12 +50,20 @@
   margin-left: 10px;
   color: rgba(210,163,44,1);
 }
-.sav-dream-text b, em {
+.sav-dream-text b {
   background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.sav-dream-text s, u {
+.sav-dream-text em {
+  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sav-dream-text s {
+  text-decoration-color: rgba(210,163,44,1);
+}
+.sav-dream-text u {
   text-decoration-color: rgba(210,163,44,1);
 }
 #sav-dream-color { 
@@ -114,12 +122,20 @@
   margin-left: 10px;
   color: rgba(45,194,143,1);
 }
-.cul-dream-text b, em {
+.cul-dream-text b {
   background: -webkit-linear-gradient(45deg,rgba(45,194,143) 35%,rgba(45,194,69));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.cul-dream-text s, u {
+.cul-dream-text em {
+  background: -webkit-linear-gradient(45deg,rgba(45,194,143) 35%,rgba(45,194,69));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cul-dream-text s {
+  text-decoration-color: rgba(45,194,143,1);
+}
+.cul-dream-text u {
   text-decoration-color: rgba(45,194,143,1);
 }
 .cul-dream-color { 
@@ -178,12 +194,20 @@
   margin-left: 10px;
   color: rgba(93,171,215,1);
 }
-.tra-dream-text b, em {
+.tra-dream-text b {
   background: -webkit-linear-gradient(45deg,rgba(93,171,215) 35%,rgba(93,110,215));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.tra-dream-text s, u {
+.tra-dream-text em {
+  background: -webkit-linear-gradient(45deg,rgba(93,171,215) 35%,rgba(93,110,215));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tra-dream-text s {
+  text-decoration-color: rgba(93,171,215,1);
+}
+.tra-dream-text u {
   text-decoration-color: rgba(93,171,215,1);
 }
 .tra-dream-color { 
