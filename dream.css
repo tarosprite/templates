@@ -50,7 +50,7 @@
   margin-left: 10px;
   color: rgba(210,163,44,1);
 }
-.sav-dream-text b {
+.sav-dream-text b, em {
   background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -86,7 +86,7 @@
   font-size: 50px;
   text-align: center;
   border-radius: 100%;
-  border: 1px solid rgba(210,163,44,.2);
+  border: 1px solid rgba(45,194,143,.2);
   line-height: 85px;
 }
 .cul-dream-notes {
@@ -107,23 +107,23 @@
 .cul-dream-date::before {
   content: "[";
   margin-right: 10px;
-  color: rgba(210,163,44,1);
+  color: rgba(45,194,143,1);
 }
 .cul-dream-date::after {
   content: "]";
   margin-left: 10px;
-  color: rgba(210,163,44,1);
+  color: rgba(45,194,143,1);
 }
-.cul-dream-text b {
-  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+.cul-dream-text b, em {
+  background: -webkit-linear-gradient(45deg,rgba(45,194,143) 35%,rgba(45,194,69));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .cul-dream-text s, u {
-  text-decoration-color: rgba(210,163,44,1);
+  text-decoration-color: rgba(45,194,143,1);
 }
 .cul-dream-color { 
-  color: rgba(210,163,44,1);
+  color: rgba(45,194,143,1);
 }
 
 .tra-dream-body {
@@ -150,7 +150,7 @@
   font-size: 50px;
   text-align: center;
   border-radius: 100%;
-  border: 1px solid rgba(210,163,44,.2);
+  border: 1px solid rgba(93,171,215,.2);
   line-height: 85px;
 }
 .tra-dream-notes {
@@ -171,21 +171,21 @@
 .tra-dream-date::before {
   content: "[";
   margin-right: 10px;
-  color: rgba(210,163,44,1);
+  color: rgba(93,171,215,1);
 }
 .tra-dream-date::after {
   content: "]";
   margin-left: 10px;
-  color: rgba(210,163,44,1);
+  color: rgba(93,171,215,1);
 }
-.tra-dream-text b {
-  background: -webkit-linear-gradient(45deg,rgba(210,163,44) 35%,rgba(156,189,3));
+.tra-dream-text b, em {
+  background: -webkit-linear-gradient(45deg,rgba(93,171,215) 35%,rgba(93,110,215));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .tra-dream-text s, u {
-  text-decoration-color: rgba(210,163,44,1);
+  text-decoration-color: rgba(93,171,215,1);
 }
 .tra-dream-color { 
-  color: rgba(210,163,44,1);
+  color: rgba(93,171,215,1);
 }
